@@ -1,4 +1,4 @@
-I'll give you a comprehensive breakdown of how this entire app works from the ground up!
+Comprehensive breakdown of how this entire app works from the ground up!
 
 ## **1. The React Foundation**
 

@@ -1,3 +1,33 @@
+I love this idea! It's such a clever way to highlight how knowledge evolves and how much can change in just a few years or decades. Here are some thoughts on making this work:
+
+**What makes it compelling:**
+- Nostalgia factor - people love reflecting on their school years
+- Humbling reminder that "facts" aren't always permanent
+- Great shareability - people would compare with friends who graduated different years
+- Educational value in showing how science and understanding progresses
+
+**Implementation ideas:**
+- Users could filter by subject (science, history, health, technology, geography)
+- Include a brief explanation of what we know now and when/how it changed
+- Show a timeline visualization of how long the "fact" was taught before being updated
+- Maybe include a "still being taught" flag for things that linger in curricula
+- Community submissions with source verification to keep it growing
+
+**Example outdated "facts" by era:**
+- 1990s: "Pluto is the 9th planet" (downgraded 2006)
+- 2000s: "There are 4 taste categories" (umami added as 5th)
+- 1980s: "Dinosaurs were cold-blooded" (now believed many were warm-blooded)
+- 1970s: "Ulcers are caused by stress" (actually H. pylori bacteria)
+
+**Challenges to consider:**
+- Distinguishing between "disproven" vs "understanding refined"
+- Avoiding controversial topics where the science is still legitimately debated
+- Keeping sources credible and current
+- Regular updates as new discoveries emerge
+
+
+---------
+
 Comprehensive breakdown of how this entire app works from the ground up!
 
 ## **1. The React Foundation**
